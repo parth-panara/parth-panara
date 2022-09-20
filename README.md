@@ -6,6 +6,6 @@
 </div>
 
 <h2>About me</h2>
-• Parth Panara, he/him<br />
+• Parth Panara (he/him)<br />
 • New Jersey, USA<br />
 • Master in Computer Science student at NJIT<br /><br />
