@@ -8,4 +8,4 @@
 <h2>About me</h2>
 • Parth Panara (he/him/his)<br />
 • New Jersey, USA<br />
-• Master in Computer Science student at NJIT<br /><br />
+• Pursuing a Masters in Computer Science from New Jersey Institute of Technology(NJIT)<br /><br />
