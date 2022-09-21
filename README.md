@@ -13,7 +13,7 @@
     {% block head %}
         <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"/>
 
-        <title>Parth_IS601</title>
+        
     {% endblock %}
 
 </head>
