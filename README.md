@@ -21,6 +21,7 @@ I am dedicated student with punctuality, sincerity, flexibility to adjust and go
 
 
 <p align="left">
+ connect with me on!
 <!--<a href="https://twitter.com/s_oumyadip"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/t.jpg"></a>&nbsp;&nbsp;-->
 <a href="https://www.linkedin.com/in/apurba-kumar-pramanik/"><img height="30" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <!--<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;-->
