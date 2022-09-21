@@ -16,11 +16,11 @@
 
 I am Parth Panra. I am pursuing a Masters in Computer Science from New Jersey Istitute of Technology(NJIT), New Jersey, USA. I live in New Jersey, USA.
 </br>
-</br>
+
 I am dedicated student with punctuality, sincerity, flexibility to adjust and good leadership abilities. Hard working and interested to enjoy new challenges & ready to take extra responsibilities to get work done. Fast & self-directed learner, able to work as a team member with creativity and Excellent communication skill.
 </br>
 </br>
-</br>
+
 <p align="left">
 Connect with me on!
 
