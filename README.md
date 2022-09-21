@@ -1,11 +1,11 @@
 
 <html>
 <head>
-   <h1>  Hi 👋, I am Parth here..</h1>
+   <h2>  Hi 👋, I am Parth here..</h2>
 </head>
 <body>
    <div align="center">
-     <h2>Hello! Welcome to my GitHub!</h2></br>
+     <h3>Hello! Welcome to my GitHub!</h3></br>
    </div>
 
 
