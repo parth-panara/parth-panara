@@ -33,4 +33,4 @@
 
 </div>  -->
  
-##A dedicated student with punctuality, sincerity, flexibility to adjust and good leadership abilities. Hard working and interested to enjoy new challenges & ready to take extra responsibilities to get work done. Fast & self-directed learner, able to work as a team member with creativity and Excellent communication skill.
+A dedicated student with punctuality, sincerity, flexibility to adjust and good leadership abilities. Hard working and interested to enjoy new challenges & ready to take extra responsibilities to get work done. Fast & self-directed learner, able to work as a team member with creativity and Excellent communication skill.
