@@ -32,5 +32,5 @@
 <a  href="https://t.me/rohankulkarnichannel"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
 </div>  -->
- 
+I am Parth Panra. I am pursuing a Masters in Computer Science from New Jersey Istitute of Technology(NJIT), New Jersey, USA. I live in New Jersey, USA.</br>
 A dedicated student with punctuality, sincerity, flexibility to adjust and good leadership abilities. Hard working and interested to enjoy new challenges & ready to take extra responsibilities to get work done. Fast & self-directed learner, able to work as a team member with creativity and Excellent communication skill.
