@@ -1,19 +1,13 @@
 ###  Hi 👋, I am Parth here..
 
 <html>
-
-
 <body>
-   
-   
    <div align="center">
-
-
-   <h2>Hello!👋 Welcome to my GitHub!</h2><br/>
-
+     <h2>Hello!👋 Welcome to my GitHub!</h2><br/>
    </div>
 
-<div class="container">
+
+ <div class="container">
   <div class="row">
     <div class="col">
        
@@ -29,7 +23,7 @@
    </div>
     </div>
  </div>
-</div>
+ </div>
 
    
 
