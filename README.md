@@ -1,7 +1,6 @@
 ###  Hi 👋, I am Parth here..
 
-<html>
-<body>
+
 
    <div align="center">
      <h2>Hello!👋 Welcome to my GitHub!</h2></br>
@@ -21,8 +20,5 @@
 
    
 
-
-</body>
-</html>
 
 
