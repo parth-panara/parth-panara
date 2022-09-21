@@ -2,12 +2,13 @@
 
 <html>
 <body>
+ <div class="container">
    <div align="center">
      <h2>Hello!👋 Welcome to my GitHub!</h2></br>
    </div>
 
 
- <div class="container">
+
   <div class="row">
     <div class="col">
        
