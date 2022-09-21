@@ -24,7 +24,7 @@ I am dedicated student with punctuality, sincerity, flexibility to adjust and go
 Connect with me on!
 
 <a href="https://www.linkedin.com/in/parth-p-336aa5245/"><img height="30" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
-<!--<a href="http://bit.ly/println-traffic-github"><img height="30" src="https://raw.githubusercontent.com/soumyadip007/soumyadip007/master/img/social/Yt.png"></a>&nbsp;&nbsp;-->
+
 
 <a href="mailto:parthpanara97@gmail.com"><img height="30" alt="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />&nbsp;
 
