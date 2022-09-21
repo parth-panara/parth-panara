@@ -21,7 +21,8 @@
  
    
    <div class="col">
-      Column
+     My name is Parth Panara. I am pursuing a Masters in Computer Science from New Jersey Institute of Technology(NJIT), New Jersey, USA</br>
+     </br>
    </div>
   
  </div>
