@@ -23,10 +23,10 @@ I am dedicated student with punctuality, sincerity, flexibility to adjust and go
 <p align="left">
 Connect with me on!
 
-<a href="https://www.linkedin.com/in/parth-p-336aa5245/"><img height="30" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/parth-p-336aa5245/"><img height="30" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 
-<a href="mailto:parthpanara97@gmail.com"><img height="30" alt="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" />&nbsp;
+<a href="mailto:parthpanara97@gmail.com"><img height="30" alt="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" /> </a> &nbsp;
 
 
 </p>
