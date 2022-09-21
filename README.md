@@ -1,6 +1,6 @@
 ###  Hi 👋, I am Parth here..
 
-<!doctype html>
+<html>
 
 
 <body>
