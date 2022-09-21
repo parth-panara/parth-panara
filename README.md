@@ -5,7 +5,7 @@
 </head>
 <body>
    <div align="center">
-     <h3>Hello! Welcome to my GitHub!</h3></br>
+     <h2>Hello! Welcome to my GitHub!</h2></br>
    </div>
 
 
