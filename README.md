@@ -9,7 +9,7 @@
    <div align="center">
 
 
-   <h3>Hello!👋 Welcome to my GitHub!</h3><br />
+   <h1>Hello!👋 Welcome to my GitHub!</h1><br/>
 
    </div>
 
