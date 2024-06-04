@@ -15,6 +15,7 @@
 
   Greetings! I'm Parth, I graduated with a Master's degree in Computer Science with expertise in programming and data science. My passion for developing soft skills and advancing my technical knowledge motivates me. I'm currently seeking Full-Time Roles in Software Engineering, Full-Stack Development, Data Science, Business Analyst, or any Technologically related roles.
 </br>
+</br>
 My tech arsenal:
 Proficient in Languages: Java, SQL, HTML, CSS
 Familiar with Languages: Python, JavaScript, ReactJS
