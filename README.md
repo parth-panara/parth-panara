@@ -17,8 +17,11 @@
 </br>
 </br>
 My tech arsenal:
+</br>
 Proficient in Languages: Java, SQL, HTML, CSS
+</br>
 Familiar with Languages: Python, JavaScript, ReactJS
+</br>
 Framework and Tools: NumPy, Pandas, AWS, Docker, Git, GitHub, Tableau Public, Bootstrap, Firebase, Heroku, Python Flask, SQLAlchemy, Linux (Ubuntu), Oracle VM VirtualBox, Transformers and Actions for Big Data, Apache Spark, Hadoop, Microsoft Office Suite
 </br>
 </br>
