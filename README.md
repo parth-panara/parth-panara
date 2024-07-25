@@ -13,17 +13,20 @@
    <img width="30%" align="right" alt="Github Image" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?         w=826&t=st=1663649634~exp=1663650234~hmac=9821f831ff42d2790cc942e3ef6194a385d3af18a75736d632d62d845cef38c1/">
    
 
-  Greetings! I graduated with a Master's degree in Computer Science with expertise in programming and data science. My passion for developing soft skills and advancing my technical knowledge motivates me. I'm currently seeking Full-Time Roles in Software Engineering, Full-Stack Development, Data Science, Business Analyst, or any Technologically related roles.
+  Greetings! I graduated with a Master's degree in Computer Science with expertise in programming and data science. I also hold a graduate certificate in Data Minning. I'm currently seeking Full-Time roles in Data Analysis, Data Engineering, Data Science, Business Analysis, or any technologically related roles.
 </br>
 </br>
 My tech arsenal:
 </br>
-Proficient in Languages: Java, SQL, HTML, CSS
+Programming Languages: SQL (Proficient), Python (Proficient), Java, HTML/CSS, Scala 
 </br>
-Familiar with Languages: Python, JavaScript, ReactJS
+Databases and Tools: MySQL, MongoDB, Cassandra, Microsoft SQL Server, Oracle SQL developer
 </br>
-Framework and Tools: NumPy, Pandas, AWS, Docker, Git, GitHub, Tableau Public, Bootstrap, Firebase, Heroku, Python Flask, SQLAlchemy, Linux (Ubuntu), Oracle VM VirtualBox, Transformers and Actions for Big Data, Apache Spark, Hadoop, Microsoft Office Suite
+Cloud Computing: AWS (EC2, S3, IAM, EBS, RDS, EMR, RedShift, Kafka, DynamoDB) 
 </br>
+Data Analysis and Visualization: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, PySpark, Adobe Photoshop, Tableau
+</br>
+Framework and Tools: Docker, Git, GitHub, GitLab, Bootstrap, Heroku, Firebase, Python Flask, Linux (Ubuntu), Microsoft Office Suite
 </br>
 
 <p align="left">
