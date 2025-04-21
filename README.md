@@ -13,7 +13,9 @@
    <img width="30%" align="right" alt="Github Image" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?         w=826&t=st=1663649634~exp=1663650234~hmac=9821f831ff42d2790cc942e3ef6194a385d3af18a75736d632d62d845cef38c1/">
    
 
-  Greetings! I graduated with a Master's degree in Computer Science with expertise in programming and data domain. I also hold a graduate certificate in Data Minning. I'm currently seeking Full-Time roles in Data Analysis, Data Engineering, Data Science, Business Analysis, or any technologically related roles.
+"The goal is to turn data into information, and information into insight.”
+
+MS in Computer Science graduate with experience in the data domain, demonstrating a strong track record of success in data analytics. Specializing in financial data management and business intelligence, with expertise in Python, SQL, AWS, and data visualization tools like Tableau. Excited to continue applying data-driven insights to solve business challenges and enhance the customer experience. I also hold a graduate certificate in Data Minning.
 </br>
 </br>
 My tech arsenal:
