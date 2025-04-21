@@ -34,8 +34,8 @@ Framework and Tools: Docker, Git, GitHub, GitLab, Bootstrap, Heroku, Firebase, P
 <p align="left">
 Connect with me on!
 
-<a href="https://www.linkedin.com/in/parth-p-336aa5245/"><img height="30" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-<a href="mailto:parthpanara97@gmail.com"><img height="30" alt="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"/></a></a>&nbsp;
+<a href="https://www.linkedin.com/in/linktoparth/"><img height="30" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+<a href="mailto:parthforemail@gmail.com"><img height="30" alt="Gmail" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png"/></a></a>&nbsp;
 <a href="https://parthpinfo.github.io/parthportfolio/"><img height="30" src="https://img.shields.io/badge/portfolio-%23000000.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio"></a>&nbsp;
 
 </p>
